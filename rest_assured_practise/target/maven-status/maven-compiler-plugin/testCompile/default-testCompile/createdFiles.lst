@@ -1,0 +1,6 @@
+pl\qaaacademy\restassured\shop_api\BasicProductAPIVerificationTest.class
+pl\qaaacademy\restassured\shop_api\CustomComplexTest.class
+pl\qaaacademy\restassured\shop_api\ReqresInTest.class
+pl\qaaacademy\restassured\shop_api\BasicCustomerAPIVerificationTest.class
+pl\qaaacademy\restassured\shop_api\apis\BasicProductVerificationWithAPIs.class
+pl\qaaacademy\restassured\shop_api\apis\BasicCustomerVerificationWithAPIs.class
